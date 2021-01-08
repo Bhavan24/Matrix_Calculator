@@ -8,4 +8,4 @@ Setup File - MATRIX CALCULATOR.msi
 
 
 ## Screenshots of the App
-![](images/M1.png)
+![](/images/M1.PNG)
